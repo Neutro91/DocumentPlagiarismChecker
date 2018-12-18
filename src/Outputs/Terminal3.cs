@@ -12,8 +12,8 @@ using DocumentPlagiarismChecker.Core;
 namespace DocumentPlagiarismChecker.Outputs
 {
     /// <summary>
-    /// This output base object sends the results to the terminal.
-    /// </summary>
+    /// This output base object sends the results to the terminal3.
+    /// </summary> 
     internal class Terminal3: Core.BaseOutput{
         /// <summary>
         /// Writes the given set of results into the terminal.
